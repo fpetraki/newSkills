@@ -1,8 +1,9 @@
-
-p {
-    color: red;
+body {
+    font-size: 14px;
+    color: navy;
 }
 
-a {
-    color: blue;
+h1 {
+    color: yellow;
+    background-color: blue;
 }
