@@ -21,10 +21,11 @@ font-size: 3em;
  }
 
 h2 {
-
-font-size: 2.5em;
-
- }
+    font-size: 1.5em;
+    background-color: #ccc;
+    margin: 20px;
+    padding: 40px;
+}
 
 a {
     text-decoration: none;
